@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <OutputType>Library</OutputType>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <RootNamespace>AttachmentBackport</RootNamespace>
+        <Version>1.0.0</Version>
+        <Authors>RuKira</Authors>
+        <Company>RuKira</Company>
+        <Product>AttachmentBackport</Product>
+        <Description>A mod that backports the recent Attachment changes to SPT.</Description>
+        <Copyright>Copyright © RuKira</Copyright>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="SPTarkov.Common" Version="4.0.13" />
+        <PackageReference Include="SPTarkov.DI" Version="4.0.13" />
+        <PackageReference Include="SPTarkov.Server.Core" Version="4.0.13" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <_ContentIncludedByDefault Remove="dist\package.json" />
+        <None Include="Data\attachmentChanges.json">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+        <None Include="Data\config.json">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+    <Target Name="PackageModForDistribution" AfterTargets="Build">
+        <PropertyGroup>
+            <ModName>$(AssemblyName)</ModName>
+            <ZipFileName>$(ModName).zip</ZipFileName>
+            <TempPackageDir>$(ProjectDir)obj\Package</TempPackageDir>
+            <ModPackageDir>$(TempPackageDir)\SPT\user\mods\$(ModName)</ModPackageDir>
+            <ModDataDir>$(ModPackageDir)\Data</ModDataDir>
+        </PropertyGroup>
+
+        <Message Text="--- Starting Mod packaging for distribution ---" Importance="high" />
+
+        <RemoveDir Directories="$(TempPackageDir)" />
+        <MakeDir Directories="$(ModPackageDir)" />
+        <MakeDir Directories="$(ModDataDir)" />
+
+        <!-- DLL -->
+        <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(ModPackageDir)" />
+
+        <!-- JSON -->
+        <Copy SourceFiles="$(ProjectDir)Data\attachmentChanges.json" DestinationFolder="$(ModDataDir)" />
+        <Copy SourceFiles="$(ProjectDir)Data\config.json" DestinationFolder="$(ModDataDir)" />
+
+        <ZipDirectory SourceDirectory="$(TempPackageDir)" DestinationFile="$(ProjectDir)$(ZipFileName)" Overwrite="true" />
+        <RemoveDir Directories="$(TempPackageDir)" />
+
+        <Message Text="--- Mod successfully packaged at: $(ProjectDir)$(ZipFileName) ---" Importance="high" />
+    </Target>
+</Project>

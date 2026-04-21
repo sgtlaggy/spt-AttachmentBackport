@@ -1,0 +1,3385 @@
+﻿{
+  "items": [
+    {
+      "tpl": "",
+      "name": "PM 9x18PM 90-93 8-round magazine",
+      "changes": {
+        "CheckTimeModifier": 0,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine",
+      "changes": {
+        "CheckTimeModifier": -25,
+        "LoadUnloadModifier": -20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 Magpul PMAG 40 GEN M3 STANAG 40-round magazine",
+      "changes": {
+        "Ergonomics": -3.5,
+        "CheckTimeModifier": 8,
+        "LoadUnloadModifier": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 SureFire MAG5-60 STANAG 60-round magazine",
+      "changes": {
+        "Ergonomics": -9,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine",
+      "changes": {
+        "Ergonomics": -0.5,
+        "CheckTimeModifier": -10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SV-98 7.62x54R 10-round magazine",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 5.45x39 6L23 30-round magazine",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 5.45x39 6L26 45-round magazine",
+      "changes": {
+        "Ergonomics": -4,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 5.45x39 6L31 60-round magazine",
+      "changes": {
+        "Ergonomics": -10,
+        "LoadUnloadModifier": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 \"Saiga 545\" 5.45x39 10-round magazine",
+      "changes": {
+        "CheckTimeModifier": -50,
+        "LoadUnloadModifier": -35
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-133 12ga 8-shell magazine",
+      "changes": {
+        "Ergonomics": -3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PM 9x18PM 84-round makeshift drum magazine",
+      "changes": {
+        "Ergonomics": -10,
+        "CheckTimeModifier": 15,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 Colt STANAG 30-round magazine",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Remington Tactical Choke 12ga",
+      "changes": {
+        "Recoil": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SV-98 7.62x54R muzzle device",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -11.5,
+        "Ergonomics": -2.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 polymer stock",
+      "changes": {
+        "Recoil": -21
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 wooden stock",
+      "changes": {
+        "Recoil": -21
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 5.45x39 6L20 30-round magazine",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 5.45x39 6L18 45-round magazine",
+      "changes": {
+        "Ergonomics": -4.5,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "P226 9x19 15-round magazine",
+      "changes": {
+        "Ergonomics": -0.5,
+        "CheckTimeModifier": -10,
+        "LoadUnloadModifier": -10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-153 12ga 8-shell magazine",
+      "changes": {
+        "Ergonomics": -3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Noveske KX3 5.56x45 flash hider",
+      "changes": {
+        "Recoil": -9
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 KAC QDC 5.56x45 Flash Suppressor Kit",
+      "changes": {
+        "Recoil": -5,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TT 7.62x25 tt-105 8-round magazine",
+      "changes": {
+        "CheckTimeModifier": 0,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SOK-12 thread protector",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SOK-12 12ga Sb.5 5-round magazine",
+      "changes": {
+        "Ergonomics": 5,
+        "CheckTimeModifier": -50,
+        "LoadUnloadModifier": -25
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-443 Grach 9x19 18-round magazine",
+      "changes": {
+        "CheckTimeModifier": -10,
+        "LoadUnloadModifier": -10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "VSS/VAL 9x39 6L24 10-round magazine",
+      "changes": {
+        "Ergonomics": 4,
+        "CheckTimeModifier": -40,
+        "LoadUnloadModifier": -25
+      }
+    },
+    {
+      "tpl": "",
+      "name": "VSS/VAL 9x39 6L25 20-round magazine (Plum)",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Armacon Baskak stock",
+      "changes": {
+        "Recoil": -19,
+        "Ergonomics": 16
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PP-91 Kedr 9x18PM 20-round magazine",
+      "changes": {
+        "Ergonomics": 2,
+        "CheckTimeModifier": -20,
+        "LoadUnloadModifier": -20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PP-91 Kedr 9x18PM 30-round magazine",
+      "changes": {
+        "Ergonomics": -1,
+        "CheckTimeModifier": -15,
+        "LoadUnloadModifier": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKS-74U 5.45x39 muzzle brake",
+      "changes": {
+        "Recoil": -5,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "GK-02 12ga muzzle brake",
+      "changes": {
+        "Recoil": -13.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "P226 thread protector",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SKS 7.62x39 10-round internal box magazine",
+      "changes": {
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SKS 7.62x39 TAPCO 6610 20-round magazine",
+      "changes": {
+        "Ergonomics": 2,
+        "CheckTimeModifier": -15,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-153 12ga 7-shell magazine",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-153 12ga 6-shell magazine",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-153 12ga 5-shell magazine",
+      "changes": {
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "DVL-10 7.62x51 10-round magazine",
+      "changes": {
+        "Ergonomics": -0.5,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MPX A2 9x19 flash hider",
+      "changes": {
+        "Ergonomics": 0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MPX 9x19 30-round magazine",
+      "changes": {
+        "Ergonomics": -1,
+        "CheckTimeModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SIG Sauer Collapsing/Telescoping Stock",
+      "changes": {
+        "Ergonomics": 23
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MPX-SD 9x19 integrated sound suppressor",
+      "changes": {
+        "Recoil": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP5 9x19 30-round magazine",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP5SD 9x19 sound suppressor",
+      "changes": {
+        "Recoil": -8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP5 3-lug muzzle adapter",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM Hexagon 7.62x39 sound suppressor",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 PWS CQB 5.56x45 muzzle brake",
+      "changes": {
+        "Recoil": -10.5,
+        "Ergonomics": -4.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 PWS CQB 74 5.45x39 muzzle brake",
+      "changes": {
+        "Recoil": -10.5,
+        "Ergonomics": -3.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 MFT BUS stock",
+      "changes": {
+        "Recoil": -21,
+        "Ergonomics": 7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Saiga-9 9x19 sb.7 10-round magazine",
+      "changes": {
+        "Ergonomics": -1,
+        "CheckTimeModifier": -30,
+        "LoadUnloadModifier": -30
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PP-19-01 Vityaz 9x19 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -5,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Saiga-9 9x19 muzzle brake-compensator",
+      "changes": {
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PP-19-01 Vityaz 9x19 30-round magazine",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PP-19-01 Vityaz 9x19 sound suppressor",
+      "changes": {
+        "Recoil": -3,
+        "Ergonomics": -10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Hexagon 12K 12ga sound suppressor",
+      "changes": {
+        "Recoil": -5,
+        "Ergonomics": -15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 Magpul PMAG D-60 STANAG 60-round magazine",
+      "changes": {
+        "Ergonomics": -9,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine",
+      "changes": {
+        "Ergonomics": -1,
+        "CheckTimeModifier": -15,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM 7.62x39 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK 7.62x39 ribbed metal 10-round magazine",
+      "changes": {
+        "CheckTimeModifier": -50,
+        "LoadUnloadModifier": -35
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK 7.62x39 Molot Arms 6P2.Sb-11 40-round magazine",
+      "changes": {
+        "Ergonomics": -4.5,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "VPO-136 Vepr-KM wooden stock",
+      "changes": {
+        "Recoil": -21
+      }
+    },
+    {
+      "tpl": "",
+      "name": "VPO-209 wooden stock",
+      "changes": {
+        "Recoil": -21
+      }
+    },
+    {
+      "tpl": "",
+      "name": "VPO-209 thread protector",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SR-1MP 9x21 18-round magazine",
+      "changes": {
+        "CheckTimeModifier": -5,
+        "LoadUnloadModifier": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK 7.62x39 US Palm AK30 30-round magazine (Black)",
+      "changes": {
+        "Ergonomics": -0.5,
+        "CheckTimeModifier": -8,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK 7.62x39 US Palm AK30 30-round magazine (FDE)",
+      "changes": {
+        "Ergonomics": -0.5,
+        "CheckTimeModifier": -8,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Tromix Monster Claw 12ga muzzle brake",
+      "changes": {
+        "Recoil": -19,
+        "Ergonomics": -7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKMS 7.62x39 aluminium 30-round magazine",
+      "changes": {
+        "Ergonomics": -2,
+        "CheckTimeModifier": 0,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK 7.62x39 6L10 bakelite 30-round magazine",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKML system 7.62x39 flash hider",
+      "changes": {
+        "Ergonomics": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "APS 9x18PM 20-round magazine",
+      "changes": {
+        "Ergonomics": 0,
+        "CheckTimeModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SR-1MP 9x21 sound suppressor",
+      "changes": {
+        "Recoil": -2,
+        "Ergonomics": -8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Alpha Dog Alpha 9 9x19 sound suppressor",
+      "changes": {
+        "Recoil": -2,
+        "Ergonomics": -10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 7.62x51 Magpul PMAG 20 SR-LR GEN M3 20-round magazine",
+      "changes": {
+        "Ergonomics": -1,
+        "CheckTimeModifier": -10,
+        "LoadUnloadModifier": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP5 9x19 X Products X-5 50-round drum magazine",
+      "changes": {
+        "Ergonomics": -10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TOZ-106 20ga MTs 20-01 Sb.3 4-shot magazine",
+      "changes": {
+        "Ergonomics": -1,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TOZ-106 20ga MTs 20-01 Sb.3 2-shot magazine",
+      "changes": {
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Lone Wolf AlphaWolf thread protector",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Double Diamond thread protector",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock SAI 9x19 thread protector",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Double Diamond flash hider",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": -6
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 CARVER Custom Decelerator 3 Port compensator",
+      "changes": {
+        "Recoil": -12,
+        "Ergonomics": -3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Lone Wolf AlphaWolf Bullnose compensator",
+      "changes": {
+        "Recoil": -17.5,
+        "Ergonomics": -7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 17-round magazine",
+      "changes": {
+        "Ergonomics": 0,
+        "CheckTimeModifier": -10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Magpul PMAG GL9 21-round magazine",
+      "changes": {
+        "Ergonomics": -0.5,
+        "CheckTimeModifier": -10,
+        "LoadUnloadModifier": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 SGM Tactical 50-round drum magazine",
+      "changes": {
+        "Ergonomics": -10,
+        "CheckTimeModifier": 15,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M870 12ga 4-shell magazine cap",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M870 12ga 7-shell magazine",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M870 12ga 10-shell magazine",
+      "changes": {
+        "Ergonomics": -3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 CARVER Custom 4 Port compensator",
+      "changes": {
+        "Recoil": -15,
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Lone Wolf LWD-COMP9 compensator",
+      "changes": {
+        "Recoil": -12,
+        "Ergonomics": -4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 \"Big Stick\" 33-round magazine",
+      "changes": {
+        "Ergonomics": -3.5,
+        "CheckTimeModifier": 0,
+        "LoadUnloadModifier": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Fischer Development FD917 sound suppressor",
+      "changes": {
+        "Recoil": -15,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Strike Industries G4 SlideComp compensator",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Vendetta Precision VP-09 Interceptor 5.56x45 muzzle brake",
+      "changes": {
+        "Recoil": -8.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SOK-12 12ga SAI-02 10-round magazine",
+      "changes": {
+        "Ergonomics": -3.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "VSS/VAL 9x39 SR3M.130 30-round magazine",
+      "changes": {
+        "CheckTimeModifier": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Rotor 43 9x19 sound suppressor",
+      "changes": {
+        "Recoil": -2,
+        "Ergonomics": -11
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Rotor 43 7.62x39 sound suppressor",
+      "changes": {
+        "Recoil": -3,
+        "Ergonomics": -14
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Rotor 43 5.56x45 sound suppressor",
+      "changes": {
+        "Ergonomics": -14
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 5.45x39 Magpul PMAG 30 GEN M3 30-round magazine",
+      "changes": {
+        "Ergonomics": -1,
+        "CheckTimeModifier": -10,
+        "LoadUnloadModifier": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine",
+      "changes": {
+        "Ergonomics": -0.5,
+        "CheckTimeModifier": -10,
+        "LoadUnloadModifier": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 Magpul PMAG 10 GEN M3 STANAG 10-round magazine",
+      "changes": {
+        "CheckTimeModifier": -50,
+        "LoadUnloadModifier": -35
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1A 7.62x51 20-round magazine",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1A SOCOM 16 7.62x51 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1A Smith Enterprise SOCOM 16 7.62x51 threaded muzzle brake & gas block",
+      "changes": {
+        "Recoil": -4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-103 7.62x39 30-round magazine",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-101 5.56x45 6L29 30-round magazine",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-101 5.56x45 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -6,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-102 5.56x45 muzzle brake-compensator",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-105 5.45x39 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -5.5,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74M 5.45x39 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -5,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1A National Match 7.62x51 flash suppressor",
+      "changes": {
+        "Recoil": -9
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 JP Enterprises 7.62x51 Tactical Compensator",
+      "changes": {
+        "Recoil": -13,
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 Smith Enterprise Good Iron 7.62x51 muzzle brake",
+      "changes": {
+        "Recoil": -11,
+        "Ergonomics": -3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 Smith Enterprise Vortex 7.62x51 muzzle brake",
+      "changes": {
+        "Recoil": -6,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 Yankee Hill Phantom 7.62x51 flash hider",
+      "changes": {
+        "Recoil": -8,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 7.62x51 30-round magazine",
+      "changes": {
+        "Ergonomics": -5,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 7.62x51 X Products X-14 50-round drum magazine",
+      "changes": {
+        "Ergonomics": -8,
+        "CheckTimeModifier": 20,
+        "LoadUnloadModifier": 20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 LMT SOPMOD stock",
+      "changes": {
+        "Recoil": -21,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM/AK-74 FAB Defense UAS stock",
+      "changes": {
+        "Recoil": -20,
+        "Ergonomics": 18
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL 7.62x51 20-round magazine",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM/AK-74 Magpul Zhukov-S stock",
+      "changes": {
+        "Recoil": -23
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK 7.62x39 6P2 bakelite 40-round magazine",
+      "changes": {
+        "Ergonomics": -4.5,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK 7.62x39 aluminium 10-round magazine",
+      "changes": {
+        "Ergonomics": 4,
+        "CheckTimeModifier": -50,
+        "LoadUnloadModifier": -35
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SilencerCo Salvo 12 choke adapter",
+      "changes": {
+        "Recoil": -3,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SilencerCo Salvo 12 thread adapter",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Vltor EMOD stock",
+      "changes": {
+        "Recoil": -21.5,
+        "Ergonomics": 7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Yankee Hill Annihilator multi-caliber flash hider",
+      "changes": {
+        "Recoil": -7,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL 7.62x51 10-round magazine",
+      "changes": {
+        "Ergonomics": 3,
+        "CheckTimeModifier": -35,
+        "LoadUnloadModifier": -20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL 7.62x51 30-round magazine",
+      "changes": {
+        "Ergonomics": -4,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL 7.62x51 X Products X-FAL 50-round drum magazine",
+      "changes": {
+        "Ergonomics": -7,
+        "LoadUnloadModifier": 20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL 7.62x51 MMW polymer 20-round magazine",
+      "changes": {
+        "CheckTimeModifier": -10,
+        "LoadUnloadModifier": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL/SLR 7.62x51 30-round magazine",
+      "changes": {
+        "Ergonomics": -4,
+        "CheckTimeModifier": 10,
+        "LoadUnloadModifier": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL Magpul PRS 2 polymer stock",
+      "changes": {
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 folding stock",
+      "changes": {
+        "Recoil": -20,
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 SPR stock",
+      "changes": {
+        "Recoil": -22.5,
+        "Ergonomics": 12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 BRS stock",
+      "changes": {
+        "Recoil": -23.5,
+        "Ergonomics": 7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 Austrian Style 7.62x51 muzzle brake",
+      "changes": {
+        "Recoil": -12,
+        "Ergonomics": -3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 2A Armament X3 7.62x51 compensator",
+      "changes": {
+        "Recoil": -9,
+        "Ergonomics": -2.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP7 4.6x30 20-round magazine",
+      "changes": {
+        "Ergonomics": 5,
+        "CheckTimeModifier": -30,
+        "LoadUnloadModifier": -25
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP7 4.6x30 40-round magazine",
+      "changes": {
+        "LoadUnloadModifier": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP7A1 4.6x30 flash hider",
+      "changes": {
+        "Recoil": -6,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP7 B&T Rotex 2 4.6x30 sound suppressor",
+      "changes": {
+        "Recoil": -3.5,
+        "Ergonomics": -12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Mosin Rifle 7.62x54R ProMag Archangel OPFOR 10-round magazine",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 HK Slim Line buttstock",
+      "changes": {
+        "Recoil": -21.5,
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 Odin Works ATLAS-7 7.62x51 muzzle brake",
+      "changes": {
+        "Recoil": -12,
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Mosin Rifle Texas Precision Products 7.62x54R muzzle brake",
+      "changes": {
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Mosin Rifle Witt Machine 7.62x54R muzzle brake",
+      "changes": {
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-12 5.45x39 30-round magazine",
+      "changes": {
+        "Ergonomics": -0.5,
+        "CheckTimeModifier": -15,
+        "LoadUnloadModifier": -7.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "RPK-16 5.45x39 95-round drum magazine",
+      "changes": {
+        "Ergonomics": -12,
+        "CheckTimeModifier": 15,
+        "LoadUnloadModifier": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-12 stock",
+      "changes": {
+        "Ergonomics": 11
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M870 FAB Defense AGR-870 pistol grip",
+      "changes": {
+        "Ergonomics": 3.2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 FAB Defense GLR-16-S stock",
+      "changes": {
+        "Recoil": -21.5,
+        "Ergonomics": 6
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Zenit PT-3 \"Klassika\" stock",
+      "changes": {
+        "Recoil": -24.5,
+        "Ergonomics": 12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Zenit PT-1 \"Klassika\" stock",
+      "changes": {
+        "Recoil": -25,
+        "Ergonomics": 7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "RPK-16 buffer tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 HK PM Gen.2 STANAG 30-round magazine",
+      "changes": {
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 TROY BattleMag STANAG 30-round magazine",
+      "changes": {
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Strike Industries Advanced Receiver Extension buffer tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Strike Industries Advanced Receiver Extension buffer tube (Anodized Red)",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 Lantac Dragon 7.62x51 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -10.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Magpul CTR Carbine stock (Black)",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Magpul CTR Carbine stock (FDE)",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 KRISS Defiance DS150 stock (Black)",
+      "changes": {
+        "Recoil": -21.5,
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock",
+      "changes": {
+        "Recoil": -22,
+        "Ergonomics": 14
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-545 buffer tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Aeroknox Orion pistol grip",
+      "changes": {
+        "Recoil": -0.6,
+        "Ergonomics": 4.2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Daniel Defense TCS 12mm Buttpad ",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Daniel Defense TCS 20mm Buttpad ",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": 0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SIG Sauer Stock Adapter Low Profile Tube (Coyote Tan)",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Custom Guns buffer tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Custom Guns buffer tube (FDE)",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TangoDown Stubby BGV-MK46K foregrip (Black)",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 High Standard M4SS Stock",
+      "changes": {
+        "Ergonomics": 6
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Zenit B-10M handguard with B-19 upper mount",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 14.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Colt Carbine buffer tube",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TangoDown Stubby BGV-MK46K foregrip (FDE)",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TangoDown Stubby BGV-MK46K foregrip (Stealth Grey)",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Vltor MUR-1S 5.56x45 upper receiver",
+      "changes": {
+        "Ergonomics": 7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKMS folding stock",
+      "changes": {
+        "Recoil": -19.5,
+        "Ergonomics": 13
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Magpul Enhanced Receiver Extension",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Magpul PRS GEN2 stock (FDE)",
+      "changes": {
+        "Recoil": -23.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 FAB Defense GL-SHOCK buttstock",
+      "changes": {
+        "Ergonomics": 4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKMSN folding stock",
+      "changes": {
+        "Recoil": -19.5,
+        "Ergonomics": 13
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SKS TAPCO Intrafuse buffer tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK 416 Enhanced Buffer Tube",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FAB Defense buffer tube for AGR-870",
+      "changes": {
+        "Recoil": -0.5,
+        "Velocity": -2.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Noveske Gen.3 5.56x45 upper receiver",
+      "changes": {
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 ADAR 2-15 buffer tube",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SVDS 7.62x54R sniper rifle",
+      "changes": {
+        "Ergonomics": 47
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MPX/MCX Maxim Defense CQB stock",
+      "changes": {
+        "Ergonomics": 12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Zenit B-10 Handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 14
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74M CAA AKTS AK74 buffer tube",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM/AK-74 CAA AKTS buffer tube",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 Fortis RED Brake 7.62x51 muzzle brake",
+      "changes": {
+        "Recoil": -12.5,
+        "Ergonomics": -6
+      }
+    },
+    {
+      "tpl": "",
+      "name": "KAC URX 3/3.1 stopper panel",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "KAC URX 3/3.1 stopper panel (FDE)",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TX-15 5.56x45 Lightweight upper receiver",
+      "changes": {
+        "Ergonomics": 7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "KS-23M pistol grip",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Mesa Tactical Crosshair Hydraulic buffer tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kel-Tec RFB 7.62x51 rifle",
+      "changes": {
+        "Ergonomics": 80
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1911A1 .45 ACP 141mm threaded barrel",
+      "changes": {
+        "Velocity": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "KRISS Vector .45 ACP 6 inch barrel",
+      "changes": {
+        "Velocity": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "KRISS Vector 9x19 6 inch barrel",
+      "changes": {
+        "Velocity": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SIG MCX .300 Blackout assault rifle",
+      "changes": {
+        "Ergonomics": 43
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SWORD International Mk-18 .338 LM marksman rifle",
+      "changes": {
+        "Ergonomics": 34
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Soyuz-TM buffer tube",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 CMMG buffer tube",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 SureFire Warden 7.62x51 blast regulator",
+      "changes": {
+        "Recoil": -10.5,
+        "Ergonomics": -3.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK G28 buffer tube",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FN SCAR cheek rest",
+      "changes": {
+        "Ergonomics": 1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FN SCAR retractable polymer stock",
+      "changes": {
+        "Recoil": -25,
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FN SCAR rubber buttpad",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FN SCAR-H 7.62x51 13 inch barrel",
+      "changes": {
+        "Ergonomics": -8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FN SCAR retractable polymer stock (FDE)",
+      "changes": {
+        "Recoil": -25,
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FN SCAR cheek rest (FDE)",
+      "changes": {
+        "Ergonomics": 1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 RTM ATP buffer tube",
+      "changes": {
+        "Ergonomics": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Aeroknox AX-15 5.56x45 upper receiver",
+      "changes": {
+        "Recoil": -3.5,
+        "Ergonomics": 11
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AVT-40 wooden stock",
+      "changes": {
+        "Ergonomics": 36
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-12 buffer tube",
+      "changes": {
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SIG MCX-SPEAR 6.8x51 assault rifle",
+      "changes": {
+        "RecoilForceUp": 143,
+        "RecoilForceBack": 425
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FN SCAR Vltor RE-SCAR Stock Adapter",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FN SCAR Vltor RE-SCAR Stock Adapter (Patriot Brown)",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK G36 Tommy Built AR Stock Adapter",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKMS FAB Defense M4-AKMS P stock adapter",
+      "changes": {
+        "Ergonomics": -2.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TheAKGuy AK-50 .50 BMG anti-materiel rifle",
+      "changes": {
+        "Ergonomics": 66
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-50 .50 BMG 24 inch barrel",
+      "changes": {
+        "Recoil": -15,
+        "Ergonomics": -40
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MCX Cal-X Mid-Piston gas block",
+      "changes": {
+        "Recoil": -3.5,
+        "Ergonomics": -6
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AS VAL NB stock adapter tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SVT-40 SVD style stock",
+      "changes": {
+        "Recoil": -20,
+        "Ergonomics": 40
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Radian Weapons Model 1 5.56x45 upper receiver",
+      "changes": {
+        "Recoil": -4.5,
+        "Ergonomics": 2.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Colt A2 buffer tube",
+      "changes": {
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Colt N1 Stock",
+      "changes": {
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul UCS Stock Cheek Riser",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Sierra Precision SPR pistol grip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor",
+      "changes": {
+        "Ergonomics": -18
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 KAC SR-25/Mk.11 7.62x51 sound suppressor (Taupe)",
+      "changes": {
+        "Ergonomics": -18
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SV-98 7.62x54R bolt-action sniper rifle",
+      "changes": {
+        "Ergonomics": 28
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Magpul MOE pistol grip (Black)",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 10.3 inch barrel",
+      "changes": {
+        "Recoil": -5.2,
+        "Velocity": -11,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 5.56x45 14.5 inch barrel",
+      "changes": {
+        "Recoil": -7.4,
+        "Velocity": 0,
+        "Ergonomics": -12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 KAC RIS handguard",
+      "changes": {
+        "Ergonomics": 7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-133 beechwood forestock",
+      "changes": {
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-133 custom plastic forestock with rails",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Colt A2 pistol grip",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SureFire SOCOM556-MONSTER 5.56x45 sound suppressor",
+      "changes": {
+        "Recoil": -2,
+        "Ergonomics": -14
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SureFire SOCOM556-MINI MONSTER 5.56x45 sound suppressor",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": -9
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Daniel Defense RIS II 9.5 handguard (Coyote Brown)",
+      "changes": {
+        "Ergonomics": 7.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AK-74N 5.45x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 96,
+        "RecoilForceBack": 244
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK CAA RS47 handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 14
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 wooden handguard",
+      "changes": {
+        "Ergonomics": 11
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74M polymer handguard",
+      "changes": {
+        "Ergonomics": 12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 5.45x39 muzzle brake-compensator",
+      "changes": {
+        "Recoil": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 bakelite pistol grip",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 polymer pistol grip",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Zenit RK-3 pistol grip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 TGP-A 5.45x39 sound suppressor",
+      "changes": {
+        "Recoil": -7,
+        "Ergonomics": -18
+      }
+    },
+    {
+      "tpl": "",
+      "name": "P226 9x19 112mm barrel",
+      "changes": {
+        "Recoil": -2.8,
+        "Velocity": -2,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "P226 polymer pistol grip (Black)",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-153 polymer forestock",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PB bakelite side grips",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Damage Industries ECS pistol grip (FDE)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TT side grips",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SKS TOZ wooden stock (56-A-231 Sb.5)",
+      "changes": {
+        "Recoil": -28,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Saiga-12K ver.10 12ga semi-automatic shotgun",
+      "changes": {
+        "Ergonomics": 30
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SOK-12 polymer handguard",
+      "changes": {
+        "Ergonomics": 13
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MP-443 Grach polymer pistol grip",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Hogue OverMolded Rubber Grip (FDE)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AS VAL pistol grip (Plum)",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Hogue OverMolded Rubber Grip (Black)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Hogue OverMolded Rubber Grip (Ghillie Earth)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Hogue OverMolded Rubber Grip (Ghillie Green)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Hogue OverMolded Rubber Grip (Olive Drab)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "P226 Combat pistol grip (FDE)",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Magpul MOE AKM handguard (Black)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul M-LOK AFG tactical foregrip (Black)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul M-LOK AFG tactical foregrip (FDE)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul M-LOK AFG tactical foregrip (Olive Drab)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul M-LOK AFG tactical foregrip (Stealth Grey)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Magpul MOE AKM handguard (FDE)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Magpul MOE AKM handguard (Olive Drab)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Magpul MOE AKM handguard (Plum)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Magpul MOE AKM handguard (Stealth Grey)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PP-91 Kedr polymer pistol grip",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "KAC QDSS NT4 5.56x45 sound suppressor (Black)",
+      "changes": {
+        "Recoil": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "KAC QDSS NT4 5.56x45 sound suppressor (FDE)",
+      "changes": {
+        "Recoil": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKS-74U 5.45x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 108,
+        "RecoilForceBack": 272
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKS-74U wooden handguard",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKS-74U bakelite pistol grip",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKS-74U Zenit B-11 handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKS-74U PBS-4 5.45x39 sound suppressor",
+      "changes": {
+        "Recoil": -2,
+        "Ergonomics": -18
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 14
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKS-74UN 5.45x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 108,
+        "RecoilForceBack": 272
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKS-74UB 5.45x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 108,
+        "RecoilForceBack": 272
+      }
+    },
+    {
+      "tpl": "",
+      "name": "P226 9x19 112mm threaded barrel",
+      "changes": {
+        "Recoil": -2.8,
+        "Velocity": -2,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "OP-SKS wooden stock",
+      "changes": {
+        "Recoil": -28,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul AFG tactical foregrip (Black)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul AFG tactical foregrip (FDE)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul AFG tactical foregrip (Forest Green)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul AFG tactical foregrip (Olive Drab)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle",
+      "changes": {
+        "Ergonomics": 55
+      }
+    },
+    {
+      "tpl": "",
+      "name": "DVL-10 7.62x51 500mm suppressed barrel",
+      "changes": {
+        "Recoil": -12.5,
+        "Velocity": 8,
+        "Ergonomics": -15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "DVL-10 M2 7.62x51 660mm barrel",
+      "changes": {
+        "Recoil": -16.5,
+        "Accuracy": 10,
+        "Velocity": 11,
+        "Ergonomics": -35
+      }
+    },
+    {
+      "tpl": "",
+      "name": "DVL-10 M2 handguard",
+      "changes": {
+        "Ergonomics": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Daniel Defense RIS II 9.5 handguard (Black)",
+      "changes": {
+        "Ergonomics": 7.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MPX 9x19 8 inch barrel",
+      "changes": {
+        "Recoil": -5.1,
+        "Velocity": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MPX GEN1 6 inch handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 13
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MPX pistol grip",
+      "changes": {
+        "Ergonomics": 4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "MPX-SD 9x19 6.5 inch ported barrel",
+      "changes": {
+        "Recoil": -4.1,
+        "Velocity": -4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul MOE Carbine rubber buttpad",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 TROY M7A1 PDW stock (Black)",
+      "changes": {
+        "Recoil": -20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 TROY M7A1 PDW stock (FDE)",
+      "changes": {
+        "Recoil": -20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Viking Tactics UVG tactical foregrip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP5SD polymer handguard",
+      "changes": {
+        "Ergonomics": 11
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SKS Hexagon 7.62x39 sound suppressor",
+      "changes": {
+        "Recoil": -2,
+        "Ergonomics": -12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-74 Hexagon 5.45x39 sound suppressor",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Magpul UBR GEN2 stock (Black)",
+      "changes": {
+        "Recoil": -22.5,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Magpul UBR GEN2 stock (FDE)",
+      "changes": {
+        "Recoil": -22.5,
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK TAPCO SAW-Style pistol grip (Black)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK TAPCO SAW-Style pistol grip (FDE)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 War Sport LVOA-S handguard (Black)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 18
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 War Sport LVOA-C handguard (Black)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 19.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "PP-19-01 Vityaz pistol grip",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK UltiMAK M1-B handguard with gas tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": 13
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKM 7.62x39 assault rifle",
+      "changes": {
+        "Ergonomics": 28,
+        "RecoilForceUp": 121,
+        "RecoilForceBack": 298
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM wooden handguard",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Naroh Arms GRAL-S pistol grip",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Stark AR Rifle Grip (Black)",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Stark AR Rifle Grip (FDE)",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "VPO-136 Vepr-KM wooden handguard",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM bakelite pistol grip",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Molot bakelite pistol grip",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "VPO-209 wooden handguard",
+      "changes": {
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Fortis Shift tactical foregrip",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM Zenit DTK-4M 7.62x39 sound suppressor",
+      "changes": {
+        "Recoil": -7
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Krebs Custom UFM KeyMod handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 18
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Magpul RVG foregrip (Black)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKMS 7.62x39 assault rifle",
+      "changes": {
+        "Ergonomics": 26,
+        "RecoilForceUp": 121,
+        "RecoilForceBack": 298
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM wooden pistol grip",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK GP-25 accessory kit recoil pad",
+      "changes": {
+        "Ergonomics": 1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKM PBS-1 7.62x39 sound suppressor",
+      "changes": {
+        "Recoil": -5,
+        "Ergonomics": -13
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKMN 7.62x39 assault rifle",
+      "changes": {
+        "Ergonomics": 28,
+        "RecoilForceUp": 121,
+        "RecoilForceBack": 298
+      }
+    },
+    {
+      "tpl": "",
+      "name": "APS bakelite side-pieces",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "R11 RSASS handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 18.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Magpul MIAD pistol grip (FDE)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Hera Arms CQR pistol grip/buttstock",
+      "changes": {
+        "Ergonomics": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 7.62x51 18 inch barrel",
+      "changes": {
+        "Recoil": -11.4,
+        "Velocity": 1,
+        "Ergonomics": -23
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-10 7.62x51 22 inch barrel",
+      "changes": {
+        "Recoil": -14,
+        "Velocity": 3,
+        "Ergonomics": -38
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AAC 762-SDN-6 multi-caliber sound suppressor",
+      "changes": {
+        "Ergonomics": -24
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Remington R11 RSASS 7.62x51 marksman rifle",
+      "changes": {
+        "RecoilForceUp": 145,
+        "RecoilForceBack": 324
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TOZ-106 002 pistol grip",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AS VAL Rotor 43 pistol grip with buffer tube",
+      "changes": {
+        "Ergonomics": -0.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Lone Wolf AlphaWolf 114mm threaded barrel",
+      "changes": {
+        "Recoil": -2.9,
+        "Velocity": -2,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 Double Diamond 114mm threaded barrel",
+      "changes": {
+        "Recoil": -2.9,
+        "Velocity": -2,
+        "Ergonomics": -1
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 9x19 SAI 114mm threaded barrel",
+      "changes": {
+        "Recoil": -2.9,
+        "Velocity": -1,
+        "Ergonomics": 0
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 17 9x19 114mm barrel",
+      "changes": {
+        "Recoil": -2.9,
+        "Velocity": -2,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 17 9x19 114mm compensated barrel",
+      "changes": {
+        "Recoil": -2.9,
+        "Velocity": -3,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M870 Magpul MOE handguard",
+      "changes": {
+        "Ergonomics": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M870 SpeedFeed Short handguard",
+      "changes": {
+        "Ergonomics": 8
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock Pachmayr Tactical Grip Glove",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Hera Arms CQR tactical foregrip",
+      "changes": {
+        "Recoil": -1.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK MP5 B&T TL-99 aluminum handguard",
+      "changes": {
+        "Ergonomics": 13
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AKS-74U CAA XRSU47SU tactical handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Strike Industries TRAX 1 handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 16
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Strike Industries TRAX 2 handguard extension",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1A SOCOM 16 stock",
+      "changes": {
+        "Recoil": -26,
+        "Ergonomics": 28
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1A 7.62x51 16 inch barrel",
+      "changes": {
+        "Recoil": -10.3,
+        "Velocity": -1,
+        "Ergonomics": -17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 TROY S.A.S.S. Chassis stock",
+      "changes": {
+        "Recoil": -13,
+        "Ergonomics": 30
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKS-74N 5.45x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 90,
+        "RecoilForceBack": 244
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKMSN 7.62x39 assault rifle",
+      "changes": {
+        "Ergonomics": 26,
+        "RecoilForceUp": 121,
+        "RecoilForceBack": 298
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AK-74M 5.45x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 95,
+        "RecoilForceBack": 241
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AK-101 5.56x45 assault rifle",
+      "changes": {
+        "RecoilForceUp": 98,
+        "RecoilForceBack": 248
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AK-102 5.56x45 assault rifle",
+      "changes": {
+        "Ergonomics": 43,
+        "RecoilForceUp": 103,
+        "RecoilForceBack": 280
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AK-103 7.62x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 118,
+        "RecoilForceBack": 295
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AK-104 7.62x39 assault rifle",
+      "changes": {
+        "Ergonomics": 43,
+        "RecoilForceUp": 120,
+        "RecoilForceBack": 315
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AK-105 5.45x39 assault rifle",
+      "changes": {
+        "Ergonomics": 43,
+        "RecoilForceUp": 100,
+        "RecoilForceBack": 277
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1A 7.62x51 22 inch barrel",
+      "changes": {
+        "Recoil": -14,
+        "Velocity": 2,
+        "Ergonomics": -38
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M1A ProMag Archangel chassis",
+      "changes": {
+        "Recoil": -30,
+        "Ergonomics": 40
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 SAGE International M14ALCS chassis",
+      "changes": {
+        "Recoil": -18,
+        "Ergonomics": 26
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 SAGE International M14ALCS (MOD-0) stock",
+      "changes": {
+        "Recoil": -19,
+        "Ergonomics": 20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "M14 SAGE International M14ALCS (MOD-0) pistol grip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Mosin 7.62x54R bolt-action rifle (Sniper)",
+      "changes": {
+        "Ergonomics": 30
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Mosin Rifle 7.62x54R 730mm regular barrel",
+      "changes": {
+        "Recoil": -18.3,
+        "Accuracy": 5,
+        "Velocity": 0,
+        "Ergonomics": -35
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Colt M4 Carbine Length handguard",
+      "changes": {
+        "Ergonomics": 4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SKS TAPCO Intrafuse chassis",
+      "changes": {
+        "Recoil": -15,
+        "Ergonomics": 10
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SKS TAPCO Intrafuse SAW-Style pistol grip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Stark SE-5 Express Forward foregrip",
+      "changes": {
+        "Recoil": -2,
+        "Ergonomics": 6
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Tactical Dynamics Skeletonized pistol grip",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 ERGO F93 PRO stock",
+      "changes": {
+        "Recoil": -21.5,
+        "Ergonomics": 12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 7.62x51 11 inch barrel",
+      "changes": {
+        "Recoil": -8.4,
+        "Accuracy": 0,
+        "Velocity": -31,
+        "Ergonomics": -5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 quad rail handguard",
+      "changes": {
+        "Ergonomics": 14.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 SAW-style pistol grip (Black)",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "DS Arms SA58 7.62x51 assault rifle",
+      "changes": {
+        "Ergonomics": 30,
+        "RecoilForceUp": 210,
+        "RecoilForceBack": 417
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Glock 18C 9x19 114mm compensated barrel",
+      "changes": {
+        "Recoil": -2.9,
+        "Velocity": -4,
+        "Ergonomics": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK TROY Full Length Rail handguard with gas tube",
+      "changes": {
+        "Recoil": -0.5,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 Alexander Arms MK10 rifle length handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Magpul MOE pistol grip (Black)",
+      "changes": {
+        "Recoil": -1.5,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "P226 Hogue Rubberized pistol grip",
+      "changes": {
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "TT ornated side grips",
+      "changes": {
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 7.62x51 16 inch barrel",
+      "changes": {
+        "Recoil": -12.2,
+        "Accuracy": 0,
+        "Velocity": -2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 7.62x51 21 inch barrel",
+      "changes": {
+        "Recoil": -16,
+        "Accuracy": 0,
+        "Velocity": 1,
+        "Ergonomics": -33
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 quad rail full length handguard",
+      "changes": {
+        "Ergonomics": 20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL AIM Sports Universal KeyMod handguard",
+      "changes": {
+        "Ergonomics": 20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL AIM Sports Universal M-LOK handguard",
+      "changes": {
+        "Ergonomics": 20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "FAL original handguard",
+      "changes": {
+        "Ergonomics": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL Vltor CASV-FAL handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 20
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL Vltor CASV-FAS handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58/FAL Belgian Style handguard",
+      "changes": {
+        "Ergonomics": 16
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 pistol grip",
+      "changes": {
+        "Ergonomics": 2
+      }
+    },
+    {
+      "tpl": "",
+      "name": "SA58 FAB Defense AG-FAL pistol grip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Hexagon tubular handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 19
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK Hexagon tubular handguard (Anodized Red)",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 19
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK 416 5.56x45 11 inch barrel",
+      "changes": {
+        "Recoil": -5.6,
+        "Velocity": -8,
+        "Ergonomics": -4
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK 416 5.56x45 14.5 inch barrel with flip-up front sight",
+      "changes": {
+        "Recoil": -7.4,
+        "Velocity": 0,
+        "Ergonomics": -12
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK 416 5.56x45 16.5 inch barrel with flip-up front sight",
+      "changes": {
+        "Recoil": -8.4,
+        "Velocity": 2,
+        "Ergonomics": -17
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK 416 5.56x45 20 inch barrel with flip-up front sight",
+      "changes": {
+        "Recoil": -10.1,
+        "Velocity": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK 416 Quad Rail handguard",
+      "changes": {
+        "Ergonomics": 15
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK 416 Quad Rail handguard with flip-up front sight",
+      "changes": {
+        "Ergonomics": 14.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "HK 416 Quad Rail Extended handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 19.5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 HK Battle Grip Beavertail pistol grip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AR-15 HK Battle Grip pistol grip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 3
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Mosin Rifle Tacfire pistol grip",
+      "changes": {
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "RPK-16 5.45x39 15 inch barrel",
+      "changes": {
+        "Recoil": -7.4,
+        "Ergonomics": -16
+      }
+    },
+    {
+      "tpl": "",
+      "name": "RPK-16 5.45x39 22 inch barrel",
+      "changes": {
+        "Recoil": -11,
+        "Ergonomics": -22
+      }
+    },
+    {
+      "tpl": "",
+      "name": "RPK-16 handguard",
+      "changes": {
+        "Recoil": 0,
+        "Ergonomics": 13
+      }
+    },
+    {
+      "tpl": "",
+      "name": "AK-12 pistol grip",
+      "changes": {
+        "Recoil": -1,
+        "Ergonomics": 5
+      }
+    },
+    {
+      "tpl": "",
+      "name": "RPK-16 5.45x39 light machine gun",
+      "changes": {
+        "RecoilForceUp": 106,
+        "RecoilForceBack": 316
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AK-74 5.45x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 96,
+        "RecoilForceBack": 244
+      }
+    },
+    {
+      "tpl": "",
+      "name": "Kalashnikov AKS-74 5.45x39 assault rifle",
+      "changes": {
+        "RecoilForceUp": 90,
+        "RecoilForceBack": 244
+      }
+    }
+  ]
+}
